@@ -10,3 +10,14 @@
     padding: 15px 15px;
     font-size: 20px;
 }
+
+.topnav a:hover {
+    background-color: white;
+    color: RosyBrown;
+
+}
+
+.topnav a:active {
+    background-color: RosyBrown;
+    color: white;
+}
